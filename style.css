@@ -106,7 +106,6 @@ body{
     background-image: url("images/latest-work/work-1.png");
     background-size: cover;
     background-repeat: no-repeat;
-    border: 1px solid red;
 }
 .work-2{
     width: 350px;
@@ -117,7 +116,6 @@ body{
     background-image: url("images/latest-work/work-2.jpg");
     background-size: cover;
     background-repeat: no-repeat;
-    border: 1px solid red;
 }
 .work-3{
     width: 350px;
@@ -128,7 +126,6 @@ body{
     background-image: url("images/latest-work/work-3.jpg");
     background-size: cover;
     background-repeat: no-repeat;
-    border: 1px solid red;
 }
 
 
@@ -181,5 +178,5 @@ body{
 }
 #btm-position{
     text-align: center;
-   
+    font-size: 12px;
 }
